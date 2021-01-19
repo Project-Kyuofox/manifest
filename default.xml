@@ -22,5 +22,7 @@
 
   <include name="system.xml"/>
   <include name="vendor.xml"/>
+  
+  <include name="obsolete.xml"/>
 
 </manifest>
